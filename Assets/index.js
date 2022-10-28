@@ -4,7 +4,7 @@ var inquirer = require('inquirer');
 
 //Questions//
 
-let questions=[{
+const questions=[{
 
     type: "input",
     message:"what is the title of your repository?",
