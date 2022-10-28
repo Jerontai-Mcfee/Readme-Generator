@@ -6,8 +6,12 @@ var inquirer = require('inquirer');
 
 let questions=[{
 
-type: "input",
-message:"what is the title of your repository?",
-name: "title",
-    
-}]
+    type: "input",
+    message:"what is the title of your repository?",
+    name: "title",
+
+},{
+    type: "input",
+    message: "please "
+
+}];
