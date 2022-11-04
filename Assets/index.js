@@ -1,10 +1,10 @@
-var fileGenerator = require("./filegenerator");
+var fileGenerator = require("./FileGen");
 var fs = require("fs");
 var inquirer = require('inquirer');
 
 //Questions//
 
- const questions=[
+ let questions=[
     {
 
     type: "input",
@@ -48,27 +48,27 @@ var inquirer = require('inquirer');
     name: "contents3",
 },{
     type: "input",
-    message: "user story 1 (1/9).",
+    message: "user story 1 (1/6).",
     name: "userstory1",
 },{
     type: "input",
-    message: "user story 2 (2/9).",
+    message: "user story 2 (2/6).",
     name: "userstory 2",
 },{
     type: "input",
-    message: "user story 3 (3/9).",
+    message: "user story 3 (3/6).",
     name: "userstory3",
 },{
     type: "input",
-    message: "user story 4 (4/9).",
+    message: "user story 4 (4/6).",
     name: "userstory4",
 },{
     type: "input",
-    message: "user story 5 (5/9).",
+    message: "user story 5 (5/6).",
     name: "userstory5",
 },{
     type: "input",
-    message: "user story 6 (6/9).",
+    message: "user story 6 (6/6).",
     name: "userstory6"
 },{
     type: "input",
@@ -86,13 +86,14 @@ var inquirer = require('inquirer');
 ];
 
 // Function to write to my ReadMe.md file. //
-inquirer.prompt(questions).then(function(response) {
+inquirer.prompt(questions).then(function(response){
     console.log(response);
-    
-     var content = fileGenerator(response);
-     console.log(content);
-      fs.writeFile("./ReadMe.md", content, function(err){
-          if (err) throw err
-          console.log("success");
-      });
- } ); 
+
+    var content = fileGenerator(response);
+    console.log(content);
+    fs.writeFile("./Readme.md", content,
+    function(err){
+        if (err) throw err
+        console.log("success");
+    });
+} );

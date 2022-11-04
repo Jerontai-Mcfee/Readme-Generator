@@ -60,3 +60,4 @@ ${response.Goals}
     
     return content;
 };
+module.exports = fileGenerator;
