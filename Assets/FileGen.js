@@ -39,9 +39,6 @@ ${response.description}
 ### Accomplishments [Back to Table of Contents](#Table-of-Contents)
 ${response.accomplishments}
 
-#### Demo I created ![fileGenerator.js](${response.fileGnerator})
-    
-#### Demo I created ![ReadMe.md](${response.ReadMe})
 
 ## Repositiory Goals Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
