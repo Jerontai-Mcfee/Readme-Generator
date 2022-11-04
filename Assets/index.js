@@ -69,21 +69,8 @@ var inquirer = require('inquirer');
 },{
     type: "input",
     message: "user story 6 (6/9).",
-    name: "userstory6",
+    name: "userstory6"
 },{
-    type: "input",
-    message: "user story 7 (7/9).",
-    name: "userstory7",
-},{
-    type: "input",
-    message: "user story 8 (8/9).",
-    name: "userstory8",
-},{
-    type: "input",
-    message: "user story 9 (9/9).",
-    name: "userstory9"
-},{
-    
     type: "input",
     message: "Please describe the repository.",
     name: "description"
