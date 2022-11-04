@@ -6,9 +6,10 @@ function fileGenerator(response)
 
 ## Table of Contents
     * [Repository Description](#Repository-Description)
-    * [Installation Instructions](#Install)
-    * [Usage Information](#Usage)
-    * [Repositiory Goals Criterea](#Criterea)
+    * [User story](#User-Story)
+    * [Installation Instructions](#Instructions)
+    * [Accomplishments](#Accomplishments)
+    * [Repositiory Goals ](#Goals)
  
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -23,9 +24,8 @@ ${response.description}
 4.${response.userstory4}
 5.${response.userstory5}
 6.${response.userstory6}
-7.${response.userstory7}
-8.${response.userstory8}
-9.${response.userstory9}
+
+
 
 
 ##  Instructions
@@ -34,8 +34,9 @@ ${response.description}
 2.  ${response.contents2}
 3.  ${response.contents3}
 
+
 ## Overview: What We Accomplished!
-### Workflow [Back to Table of Contents](#Table-of-Contents)
+### Accomplishments [Back to Table of Contents](#Table-of-Contents)
 ${response.accomplishments}
 
 #### Demo I created ![fileGenerator.js](${response.fileGnerator})
