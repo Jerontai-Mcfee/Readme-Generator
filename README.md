@@ -13,6 +13,9 @@
 -[Accomplishments](#Accomplishments)
 <br>
 -[Repositiory Goals ](#Goals)
+ <br>
+-[license](#License)
+ <br>
  
 # Repository Description
 
@@ -33,15 +36,17 @@ While learning to code I never did understand the reasons for a READme.md. devel
 
 
 
-##  Instructions
+## Installation Instructions
 ###### [Back to Table of Contents](#Table-of-Contents)
 1.  Ensure that your application includes the required dependencies by typing the command in your integrated terminal "npm install inquirer@8.2.4"
 2.  Create a gitignore file and include node_modules/ and .ds_store so it is not uploaded to GitHub.
 3.  Run " node[fileName].js.
 
 
-## Overview: What We Accomplished!
+
+
 ### Accomplishments [Back to Table of Contents](#Table-of-Contents)
+<br>
 Created a wonderful readme generator that can be used every time I need to work on a project.
 <br>
 <br>
