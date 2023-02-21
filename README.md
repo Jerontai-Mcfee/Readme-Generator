@@ -1,8 +1,9 @@
 # Readme example
-##### [jerontai.mcfee](https://github.com/jerontai.mcfee	)[Email Me @](jerontai07@gmail.com) 
-#### Readme generator [License used]  MIT 
+
+#### Readme generator 
 
 ## Table of Contents
+
     -[Repository Description](#Repository-Description)
     -[User story](#User-Story)
     -[Installation Instructions](#Instructions)
@@ -10,7 +11,9 @@
     -[Repositiory Goals ](#Goals)
  
 # Repository Description
+
 ###### [Back to Table of Contents](#Table-of-Contents)
+
 While learning to code I never did understand the reasons for a READme.md. developing this application has taught me that they are needed to give users instructions and let them know how it was made.
 
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -36,15 +39,17 @@ While learning to code I never did understand the reasons for a READme.md. devel
 ## Overview: What We Accomplished!
 ### Accomplishments [Back to Table of Contents](#Table-of-Contents)
 Created a wonderful readme generator that can be used every time I need to work on a project.
-
+<br>
+<br>
 
 ## Repositiory Goals Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
 I want to continue learning how to code .
 
 ## License
+<br>
     MIT
-    
+    ![Badge](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo=appveyor)
     Copyright (c) [2022] [Je'Rontai Mcfee]
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -52,3 +57,14 @@ I want to continue learning how to code .
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
     
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    
+    
+   ## Questions
+    <br>
+    <br>
+If there are any questions or concerns, please contact me at:<br>
+[GitHub](https://github.com/Jerontai-Mcfee)<br>
+[Email](mailto:jerontai07@gmail.com) 
+    
+    
+    
