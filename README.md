@@ -5,9 +5,13 @@
 ## Table of Contents
 
 -[Repository Description](#Repository-Description)
+<br>
 -[User story](#User-Story)
+<br>
 -[Installation Instructions](#Instructions)
+<br>
 -[Accomplishments](#Accomplishments)
+<br>
 -[Repositiory Goals ](#Goals)
  
 # Repository Description
