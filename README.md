@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
-    -[Repository Description](#Repository-Description)
-    -[User story](#User-Story)
-    -[Installation Instructions](#Instructions)
-    -[Accomplishments](#Accomplishments)
-    -[Repositiory Goals ](#Goals)
+-[Repository Description](#Repository-Description)
+-[User story](#User-Story)
+-[Installation Instructions](#Instructions)
+-[Accomplishments](#Accomplishments)
+-[Repositiory Goals ](#Goals)
  
 # Repository Description
 
