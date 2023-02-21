@@ -1,76 +1,70 @@
-# Readme example
+# Module 9 challenge 
+# Readme generator
 
-#### Readme generator 
+## Description
 
+As a developer you want high quality readme's for your projects.
+This README generator is designed to generate a README for your projects.
+<br>
+<br>   
 ## Table of Contents
+    
+- [Description](#description)
+- [Installation](#installation)
+- [Link to video example](#Link-to-video-example)
+- [User Story](#usage)
+- [Acceptance Criteria](#acceptance-criteria)
+- [License](#license)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Questions](#questions)
+    
+## Installation
+  The application will be invoked by using the following command:  
+```
+node index.js
 
--[Repository Description](#Repository-Description)
+```
 <br>
--[User story](#User-Story)
-<br>
--[Installation Instructions](#Instructions)
-<br>
--[Accomplishments](#Accomplishments)
-<br>
--[Repositiory Goals ](#Goals)
- <br>
--[license](#License)
- <br>
- 
-# Repository Description
 
-###### [Back to Table of Contents](#Table-of-Contents)
-
-While learning to code I never did understand the reasons for a READme.md. developing this application has taught me that they are needed to give users instructions and let them know how it was made.
-
-###### [Back to Table of Contents](#Table-of-Contents)
+## Link to video example 
+![video example](https://drive.google.com/file/d/1Zo9_T2W4PC5H7WJt8fBTnzs8jErfwGrG/view?usp=share_link)
 ## User Story
+    
+```
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
 
-1.I want to be inquired for information about my application.
-2.undefined
-3.I want my project title to display as the title of the Readme. 
-4.I want to choose a license for my application from a list of options.
-5.I want to enter my email address, GitHub username, and link to my GitHub account, and then I want it to be added to the section of the readme entitled questions.
-6.n/a
+```
+## Acceptance Criteria
+```
+GIVEN a command-line application that accepts user input
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+WHEN I enter my project title
+THEN this is displayed as the title of the README
+WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+WHEN I choose a license for my application from a list of options
+THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+WHEN I enter my GitHub username
+THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+WHEN I enter my email address
+THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+WHEN I click on the links in the Table of Contents
+THEN I am taken to the corresponding section of the README
 
-
-
-
-## Installation Instructions
-###### [Back to Table of Contents](#Table-of-Contents)
-1.  Ensure that your application includes the required dependencies by typing the command in your integrated terminal "npm install inquirer@8.2.4"
-2.  Create a gitignore file and include node_modules/ and .ds_store so it is not uploaded to GitHub.
-3.  Run " node[fileName].js.
-
-
-
-
-### Accomplishments [Back to Table of Contents](#Table-of-Contents)
-<br>
-Created a wonderful readme generator that can be used every time I need to work on a project.
-<br>
-<br>
-
-## Repositiory Goals Criterea
-###### [Back to Table of Contents](#Table-of-Contents)
-I want to continue learning how to code .
-
+```
+    
 ## License
-<br>
     
-    
- ![Badge](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo=appveyor)
- Copyright (c) [2022] [Je'Rontai Mcfee]
-
-    
+![Badge](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo=appveyor)
     
     
 ## Questions
-    <br>
-    <br>
+    
 If there are any questions or concerns, please contact me at:<br>
 [GitHub](https://github.com/Jerontai-Mcfee)<br>
-[Email](mailto:jerontai07@gmail.com) 
-    
-    
-    
+[Email](mailto:jerontai07@gmail.com)
+
