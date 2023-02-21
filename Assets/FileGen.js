@@ -5,11 +5,11 @@ function fileGenerator(response)
 #### Readme generator [License used]  ${response.license} 
 
 ## Table of Contents
-    * [Repository Description](#Repository-Description)
-    * [User story](#User-Story)
-    * [Installation Instructions](#Instructions)
-    * [Accomplishments](#Accomplishments)
-    * [Repositiory Goals ](#Goals)
+    - [Repository Description](#Repository-Description)
+    - [User story](#User-Story)
+    - [Installation Instructions](#Instructions)
+    - [Accomplishments](#Accomplishments)
+    - [Repositiory Goals ](#Goals)
  
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -45,7 +45,7 @@ ${response.accomplishments}
 ${response.Goals}
 
 ## License
-    ${response.license}
+This application is covered under ${response.license} license.
     
     Copyright (c) [2022] [Je'Rontai Mcfee]
 

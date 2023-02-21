@@ -1,13 +1,13 @@
 # Readme example
-##### [GuiltyGamingJay](https://github.com/GuiltyGamingJay	)[Email Me @](jerontai07@gmail.com) 
+##### [jerontai.mcfee](https://github.com/jerontai.mcfee	)[Email Me @](jerontai07@gmail.com) 
 #### Readme generator [License used]  MIT 
 
 ## Table of Contents
-    * [Repository Description](#Repository-Description)
-    * [User story](#User-Story)
-    * [Installation Instructions](#Instructions)
-    * [Accomplishments](#Accomplishments)
-    * [Repositiory Goals ](#Goals)
+    -[Repository Description](#Repository-Description)
+    -[User story](#User-Story)
+    -[Installation Instructions](#Instructions)
+    -[Accomplishments](#Accomplishments)
+    -[Repositiory Goals ](#Goals)
  
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
